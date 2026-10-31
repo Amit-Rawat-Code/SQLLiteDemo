@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\AMIT\\Projects\\SQLLiteDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\dal\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|g:\\amit\\projects\\sqllitedemo\\sqllitedemo\\forms\\toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|G:\\AMIT\\Projects\\SQLLiteDemo\\sqllitedemo\\forms\\toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE52FF02-5B36-4C92-8EF3-6C71C0111C6A}|SQLLiteDemo\\SQLLiteDemo.csproj|solutionrelative:sqllitedemo\\forms\\toastform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Utility.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Utility.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Utility.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:13:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\SignupForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\SignupForm.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\SignupForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:00:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\SignupForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\SignupForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\SignupForm.cs [Design]",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:00:04.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\LoginForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:56:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\EmployeeForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\EmployeeForm.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\EmployeeForm.cs",
+              "ViewState": "AgIAACEAAACAZmZmZmYQwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:47:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\EmployeeForm.Designer.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\EmployeeForm.Designer.cs",
+              "ViewState": "AgIAABIAAAAAIDMzMzPjvy0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:35:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Program.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Program.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:01:47.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDAL.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\DAL\\EmployeeDAL.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\DAL\\EmployeeDAL.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\DAL\\EmployeeDAL.cs",
+              "RelativeToolTip": "SQLLiteDemo\\DAL\\EmployeeDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T05:43:41.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToastForm.cs",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\ToastForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\ToastForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\ToastForm.cs",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\ToastForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T05:42:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToastForm.cs [Design]",
+              "DocumentMoniker": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\ToastForm.cs",
+              "RelativeDocumentMoniker": "SQLLiteDemo\\Forms\\ToastForm.cs",
+              "ToolTip": "G:\\AMIT\\Projects\\SQLLiteDemo\\SQLLiteDemo\\Forms\\ToastForm.cs [Design]",
+              "RelativeToolTip": "SQLLiteDemo\\Forms\\ToastForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T05:42:18.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
